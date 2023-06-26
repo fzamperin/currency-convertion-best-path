@@ -1,0 +1,16 @@
+{
+  "name": "currency-conversion",
+  "version": "1.0.0",
+  "description": "Currency conversion using best path algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Fernando Zamperin <fzamperin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "fast-csv": "^4.3.6"
+  }
+}
